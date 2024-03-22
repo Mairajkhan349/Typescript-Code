@@ -1,7 +1,7 @@
- {
-  "name": "m3k4s9-bmi-calculator",
-  "version": "1.0.0",
-  "description": "A BMI calculator",
+{
+  "name": "m3k4s9-cli-number-guessing-game",
+  "version": "1.0.2",
+  "description": "It is a number guessing game",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
