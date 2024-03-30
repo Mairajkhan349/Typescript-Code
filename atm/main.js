@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let myCode = 1234;
 let myBalance = 50000; //US Dollars
